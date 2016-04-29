@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./votumunanimeparn00mayr_0017.png"; bbox 0 0 2034 3277; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 89 465 1892 2860">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 89 465 1892 2860">
+     <span class='ocr_line' id='line_1_1' title="bbox 89 465 1892 2860; baseline 0 -1525"><span class='ocrx_word' id='word_1_1' title='bbox 89 465 1892 2860; x_wconf 95' lang='lat' dir='ltr'>     </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1316 1335 1893 1671">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1316 1335 1893 1671">
+     <span class='ocr_line' id='line_1_2' title="bbox 1316 1335 1893 1671; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1316 1335 1893 1671; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 362 1419 1660 1745">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 362 1419 1773 1757">
+     <span class='ocr_line' id='line_1_3' title="bbox 362 1419 1573 1642; baseline 0.004 -56"><span class='ocrx_word' id='word_1_3' title='bbox 362 1419 1054 1587; x_wconf 74' lang='lat' dir='ltr'>Provido</span> <span class='ocrx_word' id='word_1_4' title='bbox 1121 1433 1573 1642; x_wconf 86' lang='lat' dir='ltr'>Supe-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 387 1617 1660 1745; baseline 0.009 -27"><span class='ocrx_word' id='word_1_5' title='bbox 387 1673 414 1707; x_wconf 66' lang='lat' dir='ltr'>-s</span> <span class='ocrx_word' id='word_1_6' title='bbox 582 1652 828 1722; x_wconf 83' lang='lat' dir='ltr'>rum</span> <span class='ocrx_word' id='word_1_7' title='bbox 861 1617 1358 1741; x_wconf 82' lang='lat' dir='ltr'>Confilio.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1520 1668 1552 1700; x_wconf 95' lang='grc'>-</span> <span class='ocrx_word' id='word_1_9' title='bbox 1617 1660 1660 1745; x_wconf 74' lang='grc' dir='ltr'><em>ς</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1454 1675 1893 1786">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1454 1675 1893 1786">
+     <span class='ocr_line' id='line_1_5' title="bbox 1454 1675 1893 1786; baseline 0 -31"><span class='ocrx_word' id='word_1_10' title='bbox 1454 1675 1893 1786; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

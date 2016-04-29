@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./votumunanimeparn00mayr_0077.png"; bbox 0 0 2034 3277; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 535 1617 1305 1869">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 535 1617 1305 1869">
+     <span class='ocr_line' id='line_1_1' title="bbox 535 1617 1305 1841; baseline 0.006 -118"><span class='ocrx_word' id='word_1_1' title='bbox 535 1620 818 1763; x_wconf 76' lang='lat' dir='ltr'><strong>lique</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 908 1617 1305 1841; x_wconf 71' lang='lat' dir='ltr'><strong>lExem-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 853 1788 1010 1869; baseline 0.038 -28"><span class='ocrx_word' id='word_1_3' title='bbox 853 1788 905 1869; x_wconf 85' lang='lat' dir='ltr'>p</span> <span class='ocrx_word' id='word_1_4' title='bbox 936 1792 1010 1847; x_wconf 90' lang='lat'><strong>0.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 34 291 1802 2734">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 34 291 1802 2734">
+     <span class='ocr_line' id='line_1_3' title="bbox 34 291 1802 2734; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 34 291 1802 2734; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
